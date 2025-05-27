@@ -1,0 +1,12 @@
+.box {
+    position: relative;
+    top:0;
+    background-color: red;
+    transition: all 0.3s;
+height: 60px;
+width: 300px;
+}
+.box:hover {
+    background-color: blue;
+    top:50px;
+}
